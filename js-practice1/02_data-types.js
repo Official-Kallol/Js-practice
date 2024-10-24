@@ -61,4 +61,17 @@ console.log(num);
 
 */
 
+// =============================== Comparation ===========================
+/*
+console.log(2 == 1)
+console.log(2 >= 1)
+console.log(2 <= 1)
+console.log(2 != 1)
+console.log(2 > 1)
+console.log(2 < 1)
+console.log("2" > 1)
+console.log("2" == 2)
+console.log("2" === 2) // for strict check
+console.log("02" > 1)
+*/
 
