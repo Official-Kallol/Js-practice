@@ -75,3 +75,7 @@ console.log("2" === 2) // for strict check
 console.log("02" > 1)
 */
 
+let name = "Kallol";
+let age = 22 ;
+
+console.log(`My name is ${name} and I am ${age} years old.`)
