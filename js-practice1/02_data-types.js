@@ -1,5 +1,6 @@
 "use strict"; // treat all JS code as newer version
 
+/*
 // alert("Hello world") // run only in browser 
 
 let name = "Kallol";
@@ -15,3 +16,22 @@ console.log(typeof age);
 console.log(typeof isReady);
 console.log(typeof null);
 console.log(typeof undefined);
+*/
+
+// =========================== Conversion ==============================
+/*
+// let score = "33a+"
+// let score1 = null
+// let score2 = undefined
+ let score3 = false 
+
+
+console.log(typeof score3);
+
+let valueIn = Number(score3);
+console.log(typeof valueIn);
+console.log(valueIn);
+
+*/
+
+
